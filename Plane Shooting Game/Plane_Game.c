@@ -152,10 +152,6 @@ int main() {
  BOARD(map4);
  PG(map1);
  PG(map2);
-    show(map1);
-    show(map2);
-    show(map3);
-    show(map4);
  int x1;
  int y1;
  int ship1 = 8;;
