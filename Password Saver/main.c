@@ -6,7 +6,9 @@ FILE *fp;
 void menu();
 
 int main() {
-    menu();
+   for(;;){
+       menu();
+   }
     return 0;
 }
 
