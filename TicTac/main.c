@@ -30,6 +30,5 @@ void show(char map[4][4]){
     }
 }
 void shoot(char map[4][4]){
-
 }
 
