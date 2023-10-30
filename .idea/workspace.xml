@@ -18,9 +18,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="35f16b77-67ea-444f-990d-8f45f33a3480" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="35f16b77-67ea-444f-990d-8f45f33a3480" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -56,7 +54,7 @@
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/4burn/Documents/GitHub/programming-learning/Data structure and Algorithm",
+    "last_opened_file_path": "C:/Users/4burn/Documents/GitHub/C-The-Fun",
     "structure.view.defaults.are.configured": "true",
     "vue.rearranger.settings.migration": "true"
   }
@@ -73,6 +71,7 @@
       <workItem from="1685701016163" duration="55000" />
       <workItem from="1694503556212" duration="20000" />
       <workItem from="1694577415139" duration="25000" />
+      <workItem from="1695877097314" duration="69000" />
     </task>
     <servers />
   </component>
